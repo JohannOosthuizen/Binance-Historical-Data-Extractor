@@ -1,6 +1,6 @@
 # Binance Historical Data Extractor
 
-A user-friendly desktop application for retrieving and visualizing historical cryptocurrency data from Binance.
+A user-friendly desktop application for retrieving, visualizing and saving historical cryptocurrency data from Binance.
 
 ![App Screenshot](screenshot.png)  <!-- You can add a screenshot later -->
 
