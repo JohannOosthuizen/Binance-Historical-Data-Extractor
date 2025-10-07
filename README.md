@@ -2,7 +2,8 @@
 
 A user-friendly desktop application for retrieving, visualizing and saving historical cryptocurrency data from Binance.
 
-https://github.com/JohannOosthuizen/Binance-Historical-Data-Extractor/blob/main/images/gui.png
+![App Screenshot](https://github.com/JohannOosthuizen/Binance-Historical-Data-Extractor/blob/main/images/gui.png)  <!-- You can add a screenshot later -->
+
 
 ## Features
 
