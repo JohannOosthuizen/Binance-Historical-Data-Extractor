@@ -29,7 +29,7 @@ Follow these steps to get the application running on your local machine.
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JohannOosthuizen/Binance-Historical-Data-Extractor
 cd Binance-Historical-Data-Extractor
 ```
 
