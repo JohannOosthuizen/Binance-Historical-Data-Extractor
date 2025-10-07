@@ -1,0 +1,6 @@
+python-binance
+pandas
+python-dotenv
+ttkbootstrap
+plotly
+Pillow
