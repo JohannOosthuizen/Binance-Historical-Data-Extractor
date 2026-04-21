@@ -19,7 +19,7 @@ propcache==0.2.1
 pycryptodome==3.21.0
 python-binance==1.0.27
 python-dateutil==2.9.0.post0
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 pytz==2024.2
 regex==2025.9.18
 requests==2.32.3
